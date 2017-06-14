@@ -1,0 +1,8 @@
+write hal hobj 
+write lyle lobj 10
+write lyle hobj 20
+foo lyle lobj
+Hello, it's me
+read hal
+The missile launch code is 24601
+read hal lobj 

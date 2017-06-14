@@ -1,0 +1,5 @@
+write lyle hobj 10
+hello world
+write hal lobj 1500
+read hal lobj l
+the end.

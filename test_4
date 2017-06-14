@@ -1,0 +1,9 @@
+write hal hobj 
+write lyle hobj 20
+foo lyle lobj
+Hello from the other side
+read hal
+I must have called 1009324 times
+read hal lobj 
+write lyle lobj 10
+read this file

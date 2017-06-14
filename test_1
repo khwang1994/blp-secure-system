@@ -1,0 +1,9 @@
+read lyle lobj
+write lyle hobj 1000
+read lyle hobj
+there is a house in new orleans
+write lyle lobj 525600
+write hal lobj 15
+they call the rising sun
+write hal lobj
+and it's been written for many a poor boy
